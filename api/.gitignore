@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/apig1/.vs/apig1
+/apig1/api/bin/Debug/net5.0

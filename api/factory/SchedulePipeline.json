@@ -1,0 +1,9 @@
+{
+	"name": "SchedulePipeline",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b5dca8d-f93f-4cbf-af07-409835e41030",
+		"tenantId": "14bc5219-40ca-4d62-a8e4-7c97c1236349"
+	}
+}
